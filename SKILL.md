@@ -135,11 +135,13 @@ Adjust scene count (7–10) based on how many features were chosen (2 features �
 #### Visual direction rules
 
 - **Every scene's Visual field must reference the brand palette and style** identified in Step 2.
+- Instruct the model to download the logo & other brand assets from the site and use them in the video where relevant.
+- Instruct the model to download any relevant imagery or icons from the site or the Internet to use in the video.
 - Describe motion precisely: "card slides in from left at 0.3s with ease-out", not "element appears".
-- Include text treatment: font weight, size relationship, colour usage. The main text of each scene should be centered and prominant. 
+- Include text treatment: font weight, size relationship, colour usage. The main text of each scene should be centered and prominant. Treat this as a animated headline to grab the viewer's attention.
 - Reference the brand aesthetic keyword consistently (e.g. "clean SaaS minimal layout", "dark-mode tech with neon accent").
 - Specify the scene transition for each scene. Transitions should not be disconnected. Some visual element should lead to the transition to next scene (like continueing lines, icons jumps, zoom-in, zoom outs etc.)
-- Use popular UX element prefably from the website like - cards, buttons, forms, charts, dashboards etc.
+- Use popular UX element preferably from the website like - cards, buttons, forms, charts, dashboards etc. But, keep the UI simple to avoid overwhelming the viewer. The focus should be on the feature and its benefit, not on detailed UI.
 - Assume the video is produced in a motion design tool (After Effects, Rive, CSS animation, or similar) — write for an animator, not a live-action director.
 
 #### Tone and copy rules
@@ -160,7 +162,6 @@ After the script, append:
 **Production notes** (brief):
 - Suggested total video length
 - Recommended aspect ratio (16:9, 9:16, 1:1) based on the product's likely distribution channel (inferred from site)
-- Music mood recommendation (2–3 words)
 - One sentence on animation style recommendation (e.g. "Kinetic type with smooth morphing transitions suits this brand's clean SaaS aesthetic")
 
 ---
@@ -171,13 +172,14 @@ Before outputting the final script, verify:
 - [ ] Every scene has all 6 fields (Scene title, Duration, Visual, Animation, Text, Transition)
 - [ ] Brand colours and style referenced in at least 60% of Visual fields
 - [ ] Each chosen feature appears in exactly one dedicated scene
-- [ ] Each selected benefit is stated explicitly (in VO or on-screen text)
+- [ ] Each selected benefit is stated explicitly (on-screen text)
 - [ ] Scene 1 does NOT mention the product by name
 - [ ] CTA in final scene matches the site's primary CTA
 - [ ] Total scenes are between 7 and 10
 - [ ] On-screen text ≤6 words and is nice and bold
 - [ ] Every scene has a visual transition to the next scene
-
+- [ ] Production notes included at the end
+- [ ] Production notes mention headline to be kept big bold with animation. 
 ---
 
 ## Handling edge cases

@@ -54,6 +54,13 @@ Claude will then guide you step by step:
 | 6 | Writes the full 7–10 scene animated script |
 | 7 | Delivers it as clean Markdown with production notes |
 
+Once the script is generated
+
+ - Review it & vibe with your AI of choice to customize it
+ - Copy paste the script into [Claude Design](claude.ai/design) > From Template > Animation and let it cook
+ - After Claude design is done, use [ClaudeVideoExport.com](claudevideoexport.com) to get an MP4
+ - Now, you can post the video to your website, Youtube, Instagram or anywhere you like
+ 
 ---
 
 ## Sample output structure
@@ -77,7 +84,6 @@ SCENE 2 — PROBLEM
 Every script ends with:
 - Suggested total video length
 - Recommended aspect ratio (16:9 / 9:16 / 1:1)
-- Music mood (2–3 words)
 - Animation style recommendation
 
 ---
