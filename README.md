@@ -57,10 +57,10 @@ Claude will then guide you step by step:
 Once the script is generated
 
  - Review it & vibe with your AI of choice to customize it
- - Copy paste the script into [Claude Design](claude.ai/design) > From Template > Animation and let it cook
- - After Claude design is done, use [ClaudeVideoExport.com](claudevideoexport.com) to get an MP4
+ - Copy paste the script into [Claude Design](https://claude.ai/design) > From Template > Animation and let it cook
+ - After Claude design is done, use [ClaudeVideoExport.com](https://claudevideoexport.com) to get an MP4
  - Now, you can post the video to your website, Youtube, Instagram or anywhere you like
- 
+
 ---
 
 ## Sample output structure
